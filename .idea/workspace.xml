@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fb973ab-12eb-40c1-ae3c-0b57f71c77f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/23138d89f07fb0d11cdf9e33e4eefbd57fa5f8d2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a1dcf7da5b51c3e32f9718c74f84d12e0d11218" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2ffcc37eb160e8f45d4e7fbc19b71fceed3e5b64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3aaa0bb313b5d41e6ce32f5af5daf846f6f1fd83" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f2ee898538f566c806feee1a28cd3dfa0ed3221" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/5046f2532488d8e167e4c5b6842294796245895c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57e4690d34e25a3cbd9d213a369b6796fb344dd0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/6959dbc65ffb1cf6fc63d90399236a1817d2e478" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b186ca6e65c4595862bdba65f09f65bb5d25b25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d427011a41a8538710e29eb155d843e6546bc28" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74a22078abed7906143410d719a15b0f4cf64dcb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7caa3be78b436e5a74df63594cf874bcfa995948" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d1a6b7b426f6e6749599efd46d88be995c3d8c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b1fc25388e6f3a4c5e7df67c995e8e1d80bcd9b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e5e5efa3f3a258e1b1eefaa235a4b61398b1943" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adaf627d1e1108f9e559dbd6d61db67fecb278f4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c727af3d4bfba1f1ebb576074df385bc41e048cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e240a763c97ee971e35166129cb09954931ad356" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/edd880a9b85e3312088dc6be2a29af6bdc941c0d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2be69b35a1b1bee18d51d97c3da69e17970cdf3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f303c2cb0e59fe050fcf93351c13913c33445fa9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe86b41ae4e27735bde728df1f35b97a42627f33" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator-strategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/META-INF/calculator-strategy.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/operation/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/operation/Operations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/operation/advanced/Percentage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/operation/advanced/Power.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/operation/advanced/Remainder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/operation/advanced/Root.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/operation/basic/Addition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/operation/basic/Division.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/operation/basic/Multiplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/calculator-strategy/com/igorhenss/domain/operation/basic/Subtraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/calculator-strategy/META-INF/calculator-strategy.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/calculator-strategy/com/igorhenss/domain/operation/advanced/PercentageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/calculator-strategy/com/igorhenss/domain/operation/advanced/PowerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/calculator-strategy/com/igorhenss/domain/operation/advanced/RemainderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/calculator-strategy/com/igorhenss/domain/operation/advanced/RootTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/calculator-strategy/com/igorhenss/domain/operation/basic/AdditionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/calculator-strategy/com/igorhenss/domain/operation/basic/DivisionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/calculator-strategy/com/igorhenss/domain/operation/basic/MultiplicationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/calculator-strategy/com/igorhenss/domain/operation/basic/SubtractionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/calculator-strategy/com/igorhenss/domain/operation/databuilder/NumberDatabuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/operation/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/operation/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/operation/advanced/Percentage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/operation/advanced/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/operation/advanced/Remainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/operation/advanced/Root.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/operation/basic/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/operation/basic/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/operation/basic/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/igorhenss/domain/operation/basic/Subtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/igorhenss/domain/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/igorhenss/domain/NumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/igorhenss/domain/operation/advanced/PercentageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/igorhenss/domain/operation/advanced/PowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/igorhenss/domain/operation/advanced/RemainderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/igorhenss/domain/operation/advanced/RootTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/igorhenss/domain/operation/basic/AdditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/igorhenss/domain/operation/basic/DivisionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/igorhenss/domain/operation/basic/MultiplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/igorhenss/domain/operation/basic/SubtractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/igorhenss/domain/operation/databuilder/NumberDatabuilder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z5KA2rcT3YXeOUMpeh4t20GDth" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.igorhenss.domain" />
+      <recent name="com.igorhenss.domain.operation" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.igorhenss.domain" />
+      <recent name="com.igorhenss.domain.operation.basic" />
+      <recent name="com.igorhenss.domain.operation" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.igorhenss.domain.operation.advanced" />
+      <recent name="com.igorhenss.domain.operation.basic" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.igorhenss.Main" />
+      <module name="calculator-strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.igorhenss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in calculator-strategy" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="calculator-strategy" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculator-strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.igorhenss.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.igorhenss.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.igorhenss.domain.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivisionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculator-strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.igorhenss.domain.operation.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.igorhenss.domain.operation.basic" />
+      <option name="MAIN_CLASS_NAME" value="com.igorhenss.domain.operation.basic.DivisionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculator-strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.igorhenss.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.igorhenss.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.igorhenss.domain.NumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.igorhenss.domain.operation in calculator-strategy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculator-strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.igorhenss.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.igorhenss.domain.operation" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.All in calculator-strategy" />
+      <item itemvalue="JUnit.DivisionTest" />
+      <item itemvalue="JUnit.com.igorhenss.domain.operation in calculator-strategy" />
+      <item itemvalue="JUnit.NumberTest" />
+      <item itemvalue="JUnit.CalculatorTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.NumberTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.com.igorhenss.domain.operation in calculator-strategy" />
+        <item itemvalue="JUnit.DivisionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fb973ab-12eb-40c1-ae3c-0b57f71c77f4" name="Default Changelist" comment="" />
+      <created>1584123367428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584123367428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="27" width="898" height="694" key="#All_in_calculator-strategy" timestamp="1584143867043">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="229" y="27" width="898" height="694" key="#All_in_calculator-strategy/0.27.1366.694@0.27.1366.694" timestamp="1584143867043" />
+    <state x="491" y="85" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1584146948227">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="491" y="85" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.1366.694@0.27.1366.694" timestamp="1584146948227" />
+    <state x="431" y="233" width="534" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584159826932">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="431" y="233" width="534" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.694@0.27.1366.694" timestamp="1584159826932" />
+    <state x="414" y="27" width="517" height="694" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584138902258">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="414" y="27" width="517" height="694" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.694@0.27.1366.694" timestamp="1584138902258" />
+    <state width="1320" height="158" key="GridCell.Tab.0.bottom" timestamp="1584160027916">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="158" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1584160027916" />
+    <state width="1320" height="158" key="GridCell.Tab.0.center" timestamp="1584160027915">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="158" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1584160027915" />
+    <state width="1320" height="158" key="GridCell.Tab.0.left" timestamp="1584160027915">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="158" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1584160027915" />
+    <state width="1320" height="158" key="GridCell.Tab.0.right" timestamp="1584160027915">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="158" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1584160027915" />
+    <state x="339" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1584157925522">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="339" y="200" key="com.intellij.ide.util.TipDialog/0.27.1366.694@0.27.1366.694" timestamp="1584157925522" />
+    <state x="355" y="269" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584143438000">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="355" y="269" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1366.694@0.27.1366.694" timestamp="1584143438000" />
+    <state x="403" y="48" width="549" height="650" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584159767167">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="403" y="48" width="549" height="650" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1366.694@0.27.1366.694" timestamp="1584159767167" />
+    <state x="328" y="84" width="710" height="578" key="find.popup" timestamp="1584147613050">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="328" y="84" width="710" height="578" key="find.popup/0.27.1366.694@0.27.1366.694" timestamp="1584147613050" />
+    <state x="0" y="27" width="1356" height="694" key="new project wizard" timestamp="1584143899553">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="0" y="27" width="1356" height="694" key="new project wizard/0.27.1366.694@0.27.1366.694" timestamp="1584143899553" />
+    <state x="347" y="163" key="run.anything.popup" timestamp="1584144998346">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="347" y="163" key="run.anything.popup/0.27.1366.694@0.27.1366.694" timestamp="1584144998346" />
+    <state x="347" y="19" width="672" height="676" key="search.everywhere.popup" timestamp="1584127249290">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="347" y="19" width="672" height="676" key="search.everywhere.popup/0.27.1366.694@0.27.1366.694" timestamp="1584127249290" />
+  </component>
+</project>
